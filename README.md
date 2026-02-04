@@ -40,6 +40,7 @@ Automate KVM virtual machine provisioning using CSV to store VM request list tha
 2. fill the csv and send back :
 ![](./img/vm-request-2.png)
 3. Request will appearn on web ui and waiting approval :
+![](./img/vm-request-3.png)
 
 ## Version Note & Next development:
 - Deployment on `virt-install` using `--os-variant generic`, can be improved by adding column variant on table os that has default value : generic.
