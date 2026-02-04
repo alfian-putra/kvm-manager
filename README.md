@@ -1,6 +1,6 @@
 # KVM Manager
 
-Automate KVM virtual machine provisioning using CSV to store VM request list that through telegram bot and admin approval via a web UI. The configuration injected using cloud-init on deployment process.
+Automate KVM virtual machine provisioning using CSV to store VM request list that through telegram bot and admin approval on web UI. The configuration injected using cloud-init on deployment process.
 
 ## Requirement
 - Linux OS (test on ubuntu, possibly run on any distro that have genisoimage, or you can change manually how to generate cloud-init.iso in `./backend/lib/vm_utility.py`)
