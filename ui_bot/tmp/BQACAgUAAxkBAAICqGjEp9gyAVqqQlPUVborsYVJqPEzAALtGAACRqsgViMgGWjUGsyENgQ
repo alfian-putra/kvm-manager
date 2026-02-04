@@ -1,0 +1,2 @@
+name,hostname,vcpu,memmory (Mib),os,disk_size (Gib)
+test1_vm,host1@test1,2,2048,Fedora_42,500

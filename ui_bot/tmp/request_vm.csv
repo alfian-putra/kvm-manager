@@ -1,0 +1,4 @@
+name,hostname,vcpu,memmory (Mib),os,disk_size (Gib),group_name,
+example_name,hostname@example,2,2048,fedora_40,500,tes,
+,,,,,,,
+,,,,,,,

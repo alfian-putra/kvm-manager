@@ -1,0 +1,2 @@
+﻿name,hostname,vcpu,memmory (Mib),os,disk_size (Gib)
+example_vm,hostname@example.id,2,1024,fedora_43,500

@@ -1,0 +1,55 @@
+# Log configuration
+home :
+  path : /home/user/_PROJECT/MOSES_PROJECT/3_KVM Manager/
+  venv : True
+  venv_path : ./env
+  # 
+log :
+  # log file directrory
+  path : ./log/
+  # log level can be : notset, info , debug, warning, error, critical 
+  level : info 
+
+kvm:
+  # backend server user should be ssh passwordless kvm server user@host
+  qemu_url: qemu:///system
+  host : 127.0.0.1
+  user : root 
+  pool:
+    name: "kvm_manager_pool"
+    path: "/opt/pool/"
+
+# don't use localhost it will broke the sqlalchemy
+# instead use 127.0.0.1 if you mean to use your local computer as host
+database :
+  type : postgresql
+  dialect : psycopg2
+  user : kvm_admin
+  password : kvm_admin
+  protocol : http
+  host : 127.0.0.1
+  port : 5432
+  name : kvm_manager
+
+backend :
+  protocol : http
+  host : 127.0.0.1
+  port : 8000
+  worker : 2 # we recommend 2 or more for better performance
+
+bot :
+  host : 127.0.0.1
+  token : 7728409053:AAFUZkjT6gXsxBhS2ZKqDS7MwDAyluBiEuU
+
+web_ui :
+  protocol : http
+  host : 127.0.0.1
+
+monitoring_agent :
+  host : "0.0.0.0"
+  port : 3000
+  
+jwt:
+  secret: kvm_manager_secret
+  algorithm: HS256
+  expiration: 60 # in minute

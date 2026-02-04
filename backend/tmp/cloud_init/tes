@@ -1,0 +1,38 @@
+#cloud-config
+#yay
+hostname: {{hostname}}
+runcmd:
+  - echo 'run cloud-init'
+write_files:
+- content: |
+    PermitRootLogin yes
+    AuthorizedKeysFile      .ssh/authorized_keys
+    PubkeyAuthentication yes
+    KerberosAuthentication no
+    GSSAPIAuthentication yes
+    UsePAM yes
+    ChallengeResponseAuthentication yes
+    AuthorizedKeysCommand /usr/bin/sss_ssh_authorizedkeys
+    AuthorizedKeysCommandUser nobody
+  path: /etc/ssh/sshd_config
+  append: true
+ssh_pwauth: True
+disable_root: false
+chpasswd:
+  list: |
+    root:$root_password
+  expire: false
+users:
+  - default
+  - name: $kvm_admin_user
+    password: $kvm_admin_password
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    homedir: /home/$kvm_admin_user
+    shell: /bin/bash
+    lock_passwd: false
+    ssh_authorized_keys:
+      - {{_INPUT_VARS_KEY_SSH_KEY}}
+ethernets:
+  ens3:
+    dhcp4: true

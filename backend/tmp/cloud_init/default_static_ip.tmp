@@ -1,0 +1,43 @@
+#cloud-config
+hostname: $hostname
+runcmd:
+  - echo 'run cloud-init'
+write_files:
+- content: |
+    PermitRootLogin yes
+    AuthorizedKeysFile      .ssh/authorized_keys
+    PubkeyAuthentication yes
+    KerberosAuthentication no
+    GSSAPIAuthentication yes
+    UsePAM yes
+    ChallengeResponseAuthentication yes
+    AuthorizedKeysCommand /usr/bin/sss_ssh_authorizedkeys
+    AuthorizedKeysCommandUser nobody
+  path: /etc/ssh/sshd_config
+  append: true
+ssh_pwauth: True
+disable_root: false
+chpasswd:
+  list: |
+    root:$root_password
+  expire: false
+users:
+  - default
+  - name: $kvm_admin_user
+    password: $kvm_admin_password
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    homedir: /home/$kvm_admin_user
+    shell: /bin/bash
+    lock_passwd: false
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDcb0xAo/suCR5qIFfULXo0SUBHv93zYts3cByEE620HjTUgWo8Rj2Cq9KNQY1Wr+cSkt2lUieRBz6zLClm3yZYHidW0TBd/wEwfbVRUF3gpu0d05HB6h3kFbxCpS3eU9O11CrjoDD4ExV5lPApQFWD+YJ/x/JeAcYobNvzq80CJ2P97NbZ3pDA54QHSlVdLdXOKLKkVa2ejaxVslyBdU6d4mBlzJwgMsF9MJE0WZFik58KbaBFOqg4tEPtb8iGInY0LQG3xVzUo/27U+tkSHjovp7wVRdAEeR5HMw0u3Rv04j9KeDv8D0V3r1hokTXwLZCTcYCEzeTo0FDPJVCrfxPHQHWpJe51BqFbM+331q4k0X8V+hYwQ43JWeto6VTF3l5gdXOUkGff2reUKZn22L13yX7UCjJ47HgibXXdWafbtENwUBnaAPHHrSSYVYsdanGB+dC0GpT4FQf1dv570wziqXRrPxtu5boY7ZfdpS1YycdLi7G0Ctaf/7gQ0QpgZs= tonggo@fedora
+network:
+  version: 1
+  config:
+    - type: physical
+      name: eth0
+      subnets:
+        - type: static
+          address: $_IP
+          gateway: 192.0.2.254

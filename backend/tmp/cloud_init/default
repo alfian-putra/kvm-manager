@@ -1,0 +1,32 @@
+#cloud-config
+hostname: {{hostname}}
+runcmd:
+  - echo 'run cloud-init'
+write_files:
+- content: |
+    PermitRootLogin yes
+    AuthorizedKeysFile      .ssh/authorized_keys
+    PubkeyAuthentication yes
+    KerberosAuthentication no
+    GSSAPIAuthentication yes
+    UsePAM yes
+    ChallengeResponseAuthentication yes
+    AuthorizedKeysCommand /usr/bin/sss_ssh_authorizedkeys
+    AuthorizedKeysCommandUser nobody
+  path: /etc/ssh/sshd_config
+  append: true
+ssh_pwauth: True
+disable_root: false
+chpasswd:
+  list: |
+    root:root
+  expire: false
+users:
+  - default
+  - name: admin
+    password: admin
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin, root
+    homedir: /home/admin
+    shell: /bin/bash
+    lock_passwd: false

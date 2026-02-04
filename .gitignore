@@ -1,0 +1,6 @@
+**/__pycache__/
+*.pyc
+./ui_bot/tmp/vm_request/*
+./.pid
+./log
+./env

@@ -1,0 +1,308 @@
+01-02-2026  18:44:03  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.47 GiB
+Available:      313.41 GiB
+
+
+01-02-2026  18:44:03  INFO : 
+01-02-2026  18:44:03  INFO : Pool kvm_manager_pool exist.
+01-02-2026  18:44:46  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.47 GiB
+Available:      313.41 GiB
+
+
+01-02-2026  18:44:46  INFO : 
+01-02-2026  18:44:46  INFO : Pool kvm_manager_pool exist.
+01-02-2026  18:45:21  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  18:45:21  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  18:46:07  INFO : None
+01-02-2026  18:46:07  INFO : None
+01-02-2026  18:46:07  INFO : None
+01-02-2026  18:46:23  INFO : None
+01-02-2026  18:46:23  INFO : None
+01-02-2026  18:46:23  INFO : None
+01-02-2026  18:46:23  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  18:46:23  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  18:46:23  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:46:23  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:46:32  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:46:35  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:46:35  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:46:52  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:46:52  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:47:00  INFO : VM created successfully !
+01-02-2026  18:47:54  INFO : VM created successfully !
+01-02-2026  18:48:36  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.47 GiB
+Available:      313.41 GiB
+
+
+01-02-2026  18:48:36  INFO : 
+01-02-2026  18:48:36  INFO : Pool kvm_manager_pool exist.
+01-02-2026  18:48:46  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:48:47  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  18:48:53  INFO : VM created successfully !
+01-02-2026  19:01:47  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:01:47  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:01:47  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:01:47  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:01:57  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:01:57  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:02:03  INFO : VM created successfully !
+01-02-2026  19:03:13  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:03:15  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:03:15  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:03:21  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:03:21  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:03:22  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:03:22  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:03:27  INFO : VM created successfully !
+01-02-2026  19:05:52  INFO : VM created successfully !
+01-02-2026  19:09:07  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:09:07  INFO : id=5 filename='tes' vars='hostname:_HOSTNAME,ssh_key:_INPUT_VARS_KEY_SSH_KEY'
+01-02-2026  19:09:07  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:09:07  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:09:11  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:09:11  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:09:16  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:09:16  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:09:25  INFO : VM created successfully !
+01-02-2026  19:11:06  INFO : VM created successfully !
+01-02-2026  19:24:13  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  19:24:13  INFO : id=7 filename='tes1' vars='hostname:_HOSTNAME'
+01-02-2026  20:17:06  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:17:06  INFO : 
+01-02-2026  20:17:06  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:17:07  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:17:07  INFO : 
+01-02-2026  20:17:07  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:17:08  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:17:08  INFO : 
+01-02-2026  20:17:08  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:17:55  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:17:55  INFO : 
+01-02-2026  20:17:55  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:17:57  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:17:57  INFO : 
+01-02-2026  20:17:57  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:17:57  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:17:57  INFO : 
+01-02-2026  20:17:57  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:18:07  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:18:07  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:20:06  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:20:06  INFO : 
+01-02-2026  20:20:06  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:20:08  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:20:08  INFO : 
+01-02-2026  20:20:08  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:20:08  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:20:08  INFO : 
+01-02-2026  20:20:08  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:20:12  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:20:12  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:23:30  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:23:30  INFO : 
+01-02-2026  20:23:30  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:23:31  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:23:31  INFO : 
+01-02-2026  20:23:31  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:23:31  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:23:31  INFO : 
+01-02-2026  20:23:31  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:23:36  INFO : filename='tes1' id=7 vars='hostname:_HOSTNAME'
+01-02-2026  20:23:36  INFO : filename='tes1' id=7 vars='hostname:_HOSTNAME'
+01-02-2026  20:24:06  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:24:06  INFO : 
+01-02-2026  20:24:06  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:24:07  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:24:07  INFO : 
+01-02-2026  20:24:07  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:24:07  INFO : Name:           kvm_manager_pool
+UUID:           5ab97b93-0f32-4eae-a38b-a8c3a5108ae1
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       465.88 GiB
+Allocation:     152.58 GiB
+Available:      313.30 GiB
+
+
+01-02-2026  20:24:07  INFO : 
+01-02-2026  20:24:07  INFO : Pool kvm_manager_pool exist.
+01-02-2026  20:24:14  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:24:14  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:24:16  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:24:16  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:28:38  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:28:38  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:29:12  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:29:12  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:33:56  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:33:56  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:36:39  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:36:39  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:37:59  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:37:59  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:42:05  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  20:42:05  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:50:40  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:50:40  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:52:44  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:52:44  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:54:11  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:54:11  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:57:31  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:57:31  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:59:38  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:59:38  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:59:55  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  21:59:55  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:00:03  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:00:03  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:02:27  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:02:27  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:04:41  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:04:41  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:04:50  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'
+01-02-2026  22:04:50  INFO : id=7 vars='hostname:_HOSTNAME' filename='tes1'

@@ -1,0 +1,772 @@
+11-10-2025  10:57:22  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  10:57:22  INFO : 
+11-10-2025  10:57:22  INFO : Pool kvm_manager_pool exist.
+11-10-2025  10:58:25  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  10:58:25  INFO : 
+11-10-2025  10:58:25  INFO : Pool kvm_manager_pool exist.
+11-10-2025  10:58:27  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  10:58:27  INFO : 
+11-10-2025  10:58:27  INFO : Pool kvm_manager_pool exist.
+11-10-2025  10:59:13  INFO : id=7 filename='example' vars='hostname:_HOSTNAME,ssh authorized key:_INPUT_VARS_ADMIN1-SSH-KEY'
+11-10-2025  11:04:46  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:04:46  INFO : 
+11-10-2025  11:04:46  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:06:13  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:06:13  INFO : 
+11-10-2025  11:06:13  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:06:38  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:06:38  INFO : 
+11-10-2025  11:06:38  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:09:50  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     218.99 GiB
+Available:      74.72 GiB
+
+
+11-10-2025  11:09:50  INFO : 
+11-10-2025  11:09:50  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:10:02  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     218.99 GiB
+Available:      74.72 GiB
+
+
+11-10-2025  11:10:02  INFO : 
+11-10-2025  11:10:02  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:13:59  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:13:59  INFO : 
+11-10-2025  11:13:59  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:15:54  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:15:54  INFO : 
+11-10-2025  11:15:54  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:19:45  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:19:45  INFO : 
+11-10-2025  11:19:45  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:23:02  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:23:02  INFO : 
+11-10-2025  11:23:02  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:32:56  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:32:56  INFO : 
+11-10-2025  11:32:56  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:37:44  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:37:44  INFO : 
+11-10-2025  11:37:44  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:38:22  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:38:22  INFO : 
+11-10-2025  11:38:22  INFO : Pool kvm_manager_pool exist.
+11-10-2025  11:43:48  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.00 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  11:43:48  INFO : 
+11-10-2025  11:43:48  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:26:00  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:26:00  INFO : 
+11-10-2025  12:26:00  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:26:36  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:26:36  INFO : 
+11-10-2025  12:26:36  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:29:15  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:29:15  INFO : 
+11-10-2025  12:29:15  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:29:24  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:29:24  INFO : 
+11-10-2025  12:29:24  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:30:51  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:30:51  INFO : 
+11-10-2025  12:30:51  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:31:55  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:31:55  INFO : 
+11-10-2025  12:31:55  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:33:41  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:33:41  INFO : 
+11-10-2025  12:33:41  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:34:42  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:34:42  INFO : 
+11-10-2025  12:34:42  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:35:36  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:35:36  INFO : 
+11-10-2025  12:35:36  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:37:33  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:37:33  INFO : 
+11-10-2025  12:37:33  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:38:00  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:38:00  INFO : 
+11-10-2025  12:38:00  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:43:54  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:43:54  INFO : 
+11-10-2025  12:43:54  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:44:16  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  12:44:16  INFO : 
+11-10-2025  12:44:16  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:55:09  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  12:55:09  INFO : 
+11-10-2025  12:55:09  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:56:59  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  12:56:59  INFO : 
+11-10-2025  12:56:59  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:57:44  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  12:57:44  INFO : 
+11-10-2025  12:57:44  INFO : Pool kvm_manager_pool exist.
+11-10-2025  12:59:59  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  12:59:59  INFO : 
+11-10-2025  12:59:59  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:01:03  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  13:01:03  INFO : 
+11-10-2025  13:01:03  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:01:11  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  13:01:11  INFO : 
+11-10-2025  13:01:11  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:03:30  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  13:03:30  INFO : 
+11-10-2025  13:03:30  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:04:42  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  13:04:42  INFO : 
+11-10-2025  13:04:42  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:06:04  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  13:06:04  INFO : 
+11-10-2025  13:06:04  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:07:39  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  13:07:39  INFO : 
+11-10-2025  13:07:39  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:13:22  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  13:13:22  INFO : 
+11-10-2025  13:13:22  INFO : Pool kvm_manager_pool exist.
+11-10-2025  13:36:04  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  13:36:04  INFO : 
+11-10-2025  13:36:04  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:12:48  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  14:12:48  INFO : 
+11-10-2025  14:12:48  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:15:13  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  14:15:13  INFO : 
+11-10-2025  14:15:13  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:16:02  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.71 GiB
+
+
+11-10-2025  14:16:02  INFO : 
+11-10-2025  14:16:02  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:22:02  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:22:02  INFO : 
+11-10-2025  14:22:02  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:23:16  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:23:16  INFO : 
+11-10-2025  14:23:16  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:23:35  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:23:35  INFO : 
+11-10-2025  14:23:35  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:24:17  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:24:17  INFO : 
+11-10-2025  14:24:17  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:25:24  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:25:24  INFO : 
+11-10-2025  14:25:24  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:26:42  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:26:42  INFO : 
+11-10-2025  14:26:42  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:26:51  INFO : id=7 filename='example' vars='hostname:_HOSTNAME,ssh authorized key:_INPUT_VARS_ADMIN1-SSH-KEY'
+11-10-2025  14:27:46  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  14:27:46  INFO : 
+11-10-2025  14:27:46  INFO : Pool kvm_manager_pool exist.
+11-10-2025  14:27:56  INFO : id=7 filename='example' vars='hostname:_HOSTNAME,ssh authorized key:_INPUT_VARS_ADMIN1-SSH-KEY'
+11-10-2025  19:00:07  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:00:07  INFO : 
+11-10-2025  19:00:07  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:20:00  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:20:00  INFO : 
+11-10-2025  19:20:00  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:21:57  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:21:57  INFO : 
+11-10-2025  19:21:57  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:22:50  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:22:50  INFO : 
+11-10-2025  19:22:50  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:26:02  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:26:02  INFO : 
+11-10-2025  19:26:02  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:28:51  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:28:51  INFO : 
+11-10-2025  19:28:51  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:29:10  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:29:10  INFO : 
+11-10-2025  19:29:10  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:33:13  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:33:13  INFO : 
+11-10-2025  19:33:13  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:38:45  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.01 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:38:45  INFO : 
+11-10-2025  19:38:45  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:42:08  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.70 GiB
+
+
+11-10-2025  19:42:08  INFO : 
+11-10-2025  19:42:08  INFO : Pool kvm_manager_pool exist.
+11-10-2025  19:43:25  INFO : id=7 filename='example' vars='hostname:_HOSTNAME,ssh authorized key:_INPUT_VARS_ADMIN1-SSH-KEY'
+11-10-2025  20:10:53  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  20:10:53  INFO : 
+11-10-2025  20:10:53  INFO : Pool kvm_manager_pool exist.
+11-10-2025  20:10:56  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  20:10:56  INFO : 
+11-10-2025  20:10:56  INFO : Pool kvm_manager_pool exist.
+11-10-2025  20:11:17  INFO : Name:           kvm_manager_pool
+UUID:           ecbbc130-d26a-450b-bdbb-18bd87a01123
+State:          running
+Persistent:     yes
+Autostart:      yes
+Capacity:       293.71 GiB
+Allocation:     219.02 GiB
+Available:      74.69 GiB
+
+
+11-10-2025  20:11:17  INFO : 
+11-10-2025  20:11:17  INFO : Pool kvm_manager_pool exist.
