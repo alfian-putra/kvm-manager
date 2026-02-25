@@ -4,6 +4,7 @@ Automate KVM virtual machine provisioning using CSV to store VM request list tha
 
 ## Requirement
 - Linux OS (test on ubuntu, possibly run on any distro that have genisoimage, or you can change manually how to generate cloud-init.iso in `./backend/lib/vm_utility.py`)
+- **Backend server should ssh passwordless to kvm host.**
 - dependency :
     - python3
     - python3 devel
